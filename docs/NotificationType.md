@@ -1,0 +1,33 @@
+
+
+# NotificationType
+
+## Enum
+
+
+* `CONNECTOR_AGENT` (value: `"CONNECTOR_AGENT"`)
+
+* `USER_LOCKED_OUT` (value: `"USER_LOCKED_OUT"`)
+
+* `APP_IMPORT` (value: `"APP_IMPORT"`)
+
+* `LDAP_AGENT` (value: `"LDAP_AGENT"`)
+
+* `AD_AGENT` (value: `"AD_AGENT"`)
+
+* `OKTA_ANNOUNCEMENT` (value: `"OKTA_ANNOUNCEMENT"`)
+
+* `OKTA_ISSUE` (value: `"OKTA_ISSUE"`)
+
+* `OKTA_UPDATE` (value: `"OKTA_UPDATE"`)
+
+* `IWA_AGENT` (value: `"IWA_AGENT"`)
+
+* `USER_DEPROVISION` (value: `"USER_DEPROVISION"`)
+
+* `REPORT_SUSPICIOUS_ACTIVITY` (value: `"REPORT_SUSPICIOUS_ACTIVITY"`)
+
+* `RATELIMIT_NOTIFICATION` (value: `"RATELIMIT_NOTIFICATION"`)
+
+
+

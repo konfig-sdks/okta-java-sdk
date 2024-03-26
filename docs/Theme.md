@@ -1,0 +1,22 @@
+
+
+# Theme
+
+
+## Properties
+
+| Name | Type | Description | Notes |
+|------------ | ------------- | ------------- | -------------|
+|**links** | **Map&lt;String, Object&gt;** |  |  [optional] [readonly] |
+|**backgroundImage** | **String** |  |  [optional] [readonly] |
+|**emailTemplateTouchPointVariant** | **EmailTemplateTouchPointVariant** |  |  [optional] |
+|**endUserDashboardTouchPointVariant** | **EndUserDashboardTouchPointVariant** |  |  [optional] |
+|**errorPageTouchPointVariant** | **ErrorPageTouchPointVariant** |  |  [optional] |
+|**primaryColorContrastHex** | **String** |  |  [optional] |
+|**primaryColorHex** | **String** |  |  [optional] |
+|**secondaryColorContrastHex** | **String** |  |  [optional] |
+|**secondaryColorHex** | **String** |  |  [optional] |
+|**signInPageTouchPointVariant** | **SignInPageTouchPointVariant** |  |  [optional] |
+
+
+

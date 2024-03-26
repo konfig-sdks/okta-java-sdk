@@ -1,0 +1,23 @@
+
+
+# PolicyType
+
+## Enum
+
+
+* `OAUTH_AUTHORIZATION_POLICY` (value: `"OAUTH_AUTHORIZATION_POLICY"`)
+
+* `OKTA_SIGN_ON` (value: `"OKTA_SIGN_ON"`)
+
+* `PASSWORD` (value: `"PASSWORD"`)
+
+* `IDP_DISCOVERY` (value: `"IDP_DISCOVERY"`)
+
+* `PROFILE_ENROLLMENT` (value: `"PROFILE_ENROLLMENT"`)
+
+* `ACCESS_POLICY` (value: `"ACCESS_POLICY"`)
+
+* `MFA_ENROLL` (value: `"MFA_ENROLL"`)
+
+
+
